@@ -1,4 +1,4 @@
-# Scalable nonsymmetric DPP Learning
+# Scalable Nonsymmetric DPP Learning and MAP Inference
 PyTorch implementation of scalable nonsymmetric determinantal point process (NDPP) learning.  For 
 details, see our [Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes](https://arxiv.org/abs/2006.09862)
 paper.
